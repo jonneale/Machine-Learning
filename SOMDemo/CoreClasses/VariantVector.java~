@@ -1,0 +1,19 @@
+/*
+ * VariantVector.java
+ *
+ * Created on December 13, 2002, 1:49 PM
+ */
+
+package Templates.Classes;
+
+/**
+ *
+ * @author  alanter
+ */
+public class Class {
+	
+	/** Creates a new instance of VariantVector */
+	public Class() {
+	}
+	
+}

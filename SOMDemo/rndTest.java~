@@ -1,0 +1,27 @@
+/*
+ * rndTest.java
+ *
+ * Created on December 13, 2002, 2:02 PM
+ */
+
+/**
+ *
+ * @author  alanter
+ */
+public class rndTest {
+	
+	/** Creates a new instance of rndTest */
+	public rndTest() {
+		for (int x=0; x<10; x++) {
+			System.out.println(Math.random() * 10);
+		}
+	}
+	
+	/**
+	 * @param args the command line arguments
+	 */
+	public static void main(String[] args) {
+		rndTest theApp = new rndTest();
+	}
+	
+}
